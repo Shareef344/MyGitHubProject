@@ -1,0 +1,7 @@
+<suite name = "HMS">
+<test name = "login">
+<classes>
+<class name="hari.NewTest"></class>
+</classes>
+</test>
+</suite>
